@@ -17,8 +17,8 @@ To make it easy for you to get started with this instruction, here's a list of r
 * search <product name> - Search product by name
 * add <id|name|type|price|quantity> - Adding new product by template. (Please don't use space in product name) 
 * edit <id|name|type|price|quantity> - Edit existing product data by template. (Please don't use space in product name) 
-* list all - Shows all products as table
-* list <product type> - Shows products by type as table
+* listAll - Shows all products as table
+* listByType <product type> - Shows products by type as table
 * clear - Clear screen
 * exit - Exit the application
 
